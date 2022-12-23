@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caustav
-- 👀 I’m interested in programing, software development 
-- 🌱 I’m currently learning go
+- 👀 I’m interested in programing, software development, software architecture
+- 🌱 I love building applications on cloud.
 - 💞️ I’m looking to collaborate on anything related to software development
 - 📫 Reach me at linkkaustav@gmail.com
 
